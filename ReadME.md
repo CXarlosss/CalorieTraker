@@ -1,39 +1,48 @@
+# 🥗 Calorie Tracker
 
-# 🧮 Calculadora de Propinas y Consumo
+Una aplicación moderna construida con **React + TypeScript** que permite registrar y gestionar comidas, ejercicios y calorías diarias de manera visual y organizada. Incluye gráficos, historial y funciones CRUD completas.
 
-Aplicación desarrollada con **React + TypeScript + TailwindCSS + Vite** que permite calcular el total a pagar de una orden, incluyendo la propina, así como gestionar un historial de pedidos por usuario.
-https://elegant-crepe-2ef35d.netlify.app/
+[🔗 Ver Demo en Producción](https://elegant-crepe-2ef35d.netlify.app/)
+
+---
+
+## 📸 Capturas de Pantalla
+
+<img src="https://github.com/user-attachments/assets/ed39556e-68e6-4179-8935-8c810f100ffa" alt="Pantalla principal" width="700"/>
+<img src="https://github.com/user-attachments/assets/79364bc3-e13b-4526-99a0-b2bc32fedfe4" alt="Lista de actividades" width="700"/>
+
+---
+
 ## 🚀 Características
 
-- Selección de productos desde un menú dinámico.
-- Cálculo automático de subtotal, propina y total.
-- Selección rápida de porcentaje de propina.
-- Gestión de orden actual (añadir, eliminar productos).
-- Inicio de sesión simulado (login fake).
-- Historial de pedidos por usuario.
-- Visualización de los pedidos anteriores con desglose por producto.
-- Estilos con TailwindCSS.
-- Animaciones suaves y diseño responsivo.
-![Captura de pantalla (52)](https://github.com/user-attachments/assets/ed39556e-68e6-4179-8935-8c810f100ffa)
+- ✅ Registro de comidas y ejercicios con nombre, categoría y calorías.
+- ✅ Edición y eliminación de actividades.
+- ✅ Historial persistente con `localStorage`.
+- ✅ Calculadora de balance calórico diario.
+- ✅ Visualización con gráficas (Recharts).
+- ✅ Diseño responsive y limpio con Tailwind CSS.
+- ✅ Iconos interactivos con Heroicons.
 
-## 🛠️ Tecnologías utilizadas
+---
 
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-- [ESLint](https://eslint.org/) + [React Refresh](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-refresh)
+## 🛠 Tecnologías utilizadas
+
+- ⚛️ **React 18** con **TypeScript**
+- 💨 **TailwindCSS 3**
+- 📊 **Recharts** para gráficas
+- 🆔 **UUID** para identificación única
+- 📦 **Vite** para desarrollo rápido
+- 💅 **PostCSS + Autoprefixer**
+
+---
 
 ## 📦 Instalación
 # Clona el repositorio
-git clone https://github.com/tu-usuario/calculadora_propinas.git
-cd calculadora_propinas
+git clone https://github.com/CXarlosss/CalorieTracker.git
+cd CalorieTracker
 
-# Instala las dependencias
+# Instala dependencias
 npm install
 
-# Inicia el servidor de desarrollo
+# Ejecuta en modo desarrollo
 npm run dev
-![Captura de pantalla (53)](https://github.com/user-attachments/assets/79364bc3-e13b-4526-99a0-b2bc32fedfe4)
-
-
