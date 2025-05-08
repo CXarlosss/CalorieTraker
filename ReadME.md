@@ -1,7 +1,8 @@
+
 # 🧮 Calculadora de Propinas y Consumo
 
 Aplicación desarrollada con **React + TypeScript + TailwindCSS + Vite** que permite calcular el total a pagar de una orden, incluyendo la propina, así como gestionar un historial de pedidos por usuario.
-[https://elegant-crepe-2ef35d.netlify.app/ ](https://mellifluous-mousse-c34f0f.netlify.app/)
+https://elegant-crepe-2ef35d.netlify.app/
 ## 🚀 Características
 
 - Selección de productos desde un menú dinámico.
@@ -13,7 +14,8 @@ Aplicación desarrollada con **React + TypeScript + TailwindCSS + Vite** que per
 - Visualización de los pedidos anteriores con desglose por producto.
 - Estilos con TailwindCSS.
 - Animaciones suaves y diseño responsivo.
-![Captura de pantalla (50)](https://github.com/user-attachments/assets/3dbc8eba-51d3-459c-99f1-a4bd171f6f88)
+![Captura de pantalla (52)](https://github.com/user-attachments/assets/ed39556e-68e6-4179-8935-8c810f100ffa)
+
 ## 🛠️ Tecnologías utilizadas
 
 - [React](https://react.dev/)
@@ -24,7 +26,7 @@ Aplicación desarrollada con **React + TypeScript + TailwindCSS + Vite** que per
 
 ## 📦 Instalación
 # Clona el repositorio
-git clone https://github.com/CXarlosss/calculadora_propinas.git
+git clone https://github.com/tu-usuario/calculadora_propinas.git
 cd calculadora_propinas
 
 # Instala las dependencias
@@ -32,6 +34,6 @@ npm install
 
 # Inicia el servidor de desarrollo
 npm run dev
-![Captura de pantalla (51)](https://github.com/user-attachments/assets/367a3e4c-c658-44eb-86d9-d4682d938b41)
+![Captura de pantalla (53)](https://github.com/user-attachments/assets/79364bc3-e13b-4526-99a0-b2bc32fedfe4)
 
 
